@@ -1,0 +1,24 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#587cf3",
+    "navigationBarTitleText": "无影无踪",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar" : {
+    "list" : [
+      {
+        "pagePath" : "pages/home/home",
+        "text" : "首页"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志"
+      }
+    ]
+  }
+}
